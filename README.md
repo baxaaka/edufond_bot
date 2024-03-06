@@ -1,2 +1,3 @@
-# edufond_bot
+# edufond_bot #demo 
 Bot for education
+Bu bot nima qilaoladi ?                                                                                                                   Bizning botimizda siz turli ta'lim yo'nalishlari bo'yicha ishlarga buyurtma berishingiz mumkin. Buyurtmangizni to'g'ridan-to'g'ri botda qoldiring va bizsizga vazifani bajarishda yordam beramiz. Bundan tashqari, bizda tayyor hujjatlarni yuklab olish imkoniyati ham mavjud . Agar sizga allaqachon tayyorlangan materiallar kerak bo'lsa,ularni bizning botimizdam osongina topishingiz  mumkin
